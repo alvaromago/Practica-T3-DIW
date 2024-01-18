@@ -1,0 +1,27 @@
+html {
+    scroll-behavior: smooth;
+    overflow-x: hidden;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.txtNav {
+    line-height: 3;
+}
+
+.landing-page {
+    background-image: url("../img/fondo1.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+
+.pLanding {
+    font-size: 4rem;
+    font-weight: 700;
+    font-style: italic;
+}
+
+.mapa {
+    border-radius: 5%
+}
