@@ -30,6 +30,11 @@ nav {
     line-height: 3;
 }
 
+.c-pSer {
+    text-align: justify;
+    font-weight: 500;
+}
+
 .c-carousel {
     border: solid;
     border-color: #8b4421;
@@ -53,4 +58,10 @@ nav {
 
 .mapa {
     border-radius: 5%
+}
+
+.c-pInfo {
+    font-size: 1.1rem;
+    text-align: justify;
+    font-weight: 500;
 }
