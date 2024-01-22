@@ -65,3 +65,41 @@ nav {
     text-align: justify;
     font-weight: 500;
 }
+
+@media (max-width:767px) {
+    iframe {
+        width: 500px;
+        height: 400px;
+    }
+}
+
+@media (min-width:768px) {
+    iframe {
+        width: 600px;
+        height: 450px;
+    }
+}
+
+@media (max-width:725px) {
+    .pLanding {
+        font-size: 375%;
+    }
+}
+
+@media (max-width:685px) {
+    .pLanding {
+        font-size: 345%;
+    }
+}
+
+@media (max-width:638px) {
+    .pLanding {
+        font-size: 320%;
+    }
+}
+
+@media (max-width:645px) {
+    .nav-item {
+        display: none;
+    }
+}
