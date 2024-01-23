@@ -1,0 +1,39 @@
+html {
+    scroll-behavior: smooth;
+    overflow-x: hidden;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+    --zest-200: #f4dbb4;
+    --zest-300: #edc284;
+    --zest-400: #e59f52;
+    --zest-500: #e18c3c;
+    --zest-600: #d16d25;
+    --zest-700: #ad5521;
+    --zest-800: #8b4421;
+}
+
+body {
+    background-image: linear-gradient(90deg, #edc284 0%, #e59f52 100%);
+}
+
+a {
+    cursor: pointer;
+}
+
+nav {
+    font-weight: 700;
+    font-size: 110%;
+}
+
+label {
+    font-size: 150%;
+    font-weight: 600;
+}
+
+.c-pOpi {
+    text-align: justify;
+}
+
+.txtNav {
+    line-height: 3;
+}
