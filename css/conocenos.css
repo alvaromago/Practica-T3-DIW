@@ -33,3 +33,9 @@ p {
 .txtNav {
     line-height: 3;
 }
+
+@media (max-width:645px) {
+    .nav-item {
+        display: none;
+    }
+}

@@ -39,3 +39,9 @@ nav {
     border-radius: 5% / 50%;
     border-width: .5rem;
 }
+
+@media (max-width:645px) {
+    .nav-item {
+        display: none;
+    }
+}
