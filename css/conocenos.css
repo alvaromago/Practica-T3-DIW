@@ -34,6 +34,20 @@ p {
     line-height: 3;
 }
 
+.p-der {
+    padding-right: 45%;
+}
+
+.p-izq {
+    padding-left: 45%;
+}
+
+.c-div:hover {
+    font-weight: 600;
+    font-size: 105%;
+}
+
+
 @media (max-width:645px) {
     .nav-item {
         display: none;
