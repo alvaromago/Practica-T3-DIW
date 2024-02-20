@@ -27,7 +27,7 @@ nav {
 }
 
 .txtNav {
-    line-height: 3;
+    line-height: 4.5;
 }
 
 .c-pSer {
@@ -71,7 +71,6 @@ nav {
         display: none;
     }
 }
-
 
 .card:hover {
     .img1 {

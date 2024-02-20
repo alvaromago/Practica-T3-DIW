@@ -26,11 +26,12 @@ nav {
 }
 
 .txtNav {
-    line-height: 3;
+    line-height: 4.5;
 }
 
 .c-pOpi {
     text-align: justify;
+    font-weight: 600;
 }
 
 .c-border {
