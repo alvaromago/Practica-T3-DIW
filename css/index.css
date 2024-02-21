@@ -66,20 +66,16 @@ nav {
     font-weight: 500;
 }
 
-.card {
-    .img2 {
-        display: none;
-    }
+.card .c-img2 {
+    display: none;
 }
 
-.card:hover {
-    .img1 {
-        display: none;
-    }
+.card:hover .c-img1 {
+    display: none;
+}
 
-    .img2 {
-        display: block;
-    }
+.card:hover .c-img2 {
+    display: block;
 }
 
 @media (max-width:767px) {
